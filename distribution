@@ -1,0 +1,92 @@
+Nv = 4; Nh = 4; Width = 256
+Heigth = 256
+4096
+Ns 2
+Size: 4096
+Neurons[0]: amount = 138
+Neurons[1]: amount = 3958
+Done...
+Nv = 4; Nh = 4; Width = 256
+Heigth = 256
+4096
+Ns 4
+Size: 4096
+Neurons[0]: amount = 1075
+Neurons[1]: amount = 1342
+Neurons[2]: amount = 616
+Neurons[3]: amount = 1063
+Done...
+Nv = 4; Nh = 4; Width = 256
+Heigth = 256
+4096
+Ns 8
+Size: 4096
+Neurons[0]: amount = 818
+Neurons[1]: amount = 838
+Neurons[2]: amount = 413
+Neurons[3]: amount = 469
+Neurons[4]: amount = 450
+Neurons[5]: amount = 387
+Neurons[6]: amount = 58
+Neurons[7]: amount = 663
+Done...
+Nv = 4; Nh = 4; Width = 256
+Heigth = 256
+4096
+Ns 16
+Size: 4096
+Neurons[0]: amount = 284
+Neurons[1]: amount = 149
+Neurons[2]: amount = 158
+Neurons[3]: amount = 91
+Neurons[4]: amount = 212
+Neurons[5]: amount = 162
+Neurons[6]: amount = 180
+Neurons[7]: amount = 25
+Neurons[8]: amount = 458
+Neurons[9]: amount = 62
+Neurons[10]: amount = 145
+Neurons[11]: amount = 658
+Neurons[12]: amount = 233
+Neurons[13]: amount = 496
+Neurons[14]: amount = 244
+Neurons[15]: amount = 539
+Done...
+Nv = 4; Nh = 4; Width = 256
+Heigth = 256
+4096
+Ns 32
+Size: 4096
+Neurons[0]: amount = 80
+Neurons[1]: amount = 119
+Neurons[2]: amount = 163
+Neurons[3]: amount = 112
+Neurons[4]: amount = 59
+Neurons[5]: amount = 20
+Neurons[6]: amount = 158
+Neurons[7]: amount = 16
+Neurons[8]: amount = 134
+Neurons[9]: amount = 165
+Neurons[10]: amount = 124
+Neurons[11]: amount = 124
+Neurons[12]: amount = 34
+Neurons[13]: amount = 29
+Neurons[14]: amount = 90
+Neurons[15]: amount = 101
+Neurons[16]: amount = 100
+Neurons[17]: amount = 56
+Neurons[18]: amount = 128
+Neurons[19]: amount = 116
+Neurons[20]: amount = 119
+Neurons[21]: amount = 212
+Neurons[22]: amount = 496
+Neurons[23]: amount = 73
+Neurons[24]: amount = 167
+Neurons[25]: amount = 102
+Neurons[26]: amount = 62
+Neurons[27]: amount = 284
+Neurons[28]: amount = 83
+Neurons[29]: amount = 225
+Neurons[30]: amount = 191
+Neurons[31]: amount = 154
+Done...
